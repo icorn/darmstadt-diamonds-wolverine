@@ -1,0 +1,8 @@
+AufDemServerInstalliert/
+out/
+target/
+test/
+*.log
+.svn*
+_original_stuff_from_layout/
+

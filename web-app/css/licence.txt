@@ -1,0 +1,4 @@
+CSS based on the Wordpress theme OXYGEN by Orange Themes at URL http://www.orange-themes.com/oxygen
+
+All CSS files in this directory, unless otherwise stated, are released under the GNU General Public License version 3.0 (http://www.gnu.org/licenses/gpl-3.0.html)
+
